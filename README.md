@@ -2,7 +2,7 @@
 
 一个可长期维护的个人成长主页，展示学习记录、技术项目和有实践依据的技能。站点使用纯 HTML、CSS 和 JavaScript，适合部署到 GitHub Pages 的仓库子路径。
 
-在线访问：<https://Caylicia3.github.io/My-Growth-Space/>（首次部署完成后生效）。
+在线访问：<https://Caylicia3.github.io/Growth/>（首次部署完成后生效）。
 
 ## 目录结构
 
